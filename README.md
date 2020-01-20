@@ -45,3 +45,7 @@ To Install
 
 ## Dataset
 [Middlebury Stereo Datasets](http://vision.middlebury.edu/stereo/data/)
+
+[Structured3D](https://github.com/bertjiazheng/Structured3D)
+
+A Large Photo-realistic Dataset for Structured 3D Modeling [project-page](https://structured3d-dataset.org)
