@@ -1,4 +1,7 @@
-# StereoVision-DepthEstimation
+# StereoVision-DepthEstimation-3DReconstruction
+
+## 3D Reconstruction
+
 
 ## Neural Network - Stereo Images
 ### Unsupervised Monocular Depth Estimation with Left-Right Consistency
@@ -49,3 +52,8 @@ To Install
 [Structured3D](https://github.com/bertjiazheng/Structured3D)
 
 A Large Photo-realistic Dataset for Structured 3D Modeling [project-page](https://structured3d-dataset.org)
+
+## Courses
+
+[Computer Vision Basics - Video Lectures](https://www.youtube.com/watch?v=_mOG_lpPnpY&list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1)
+--- By Cyrill Stachniss
